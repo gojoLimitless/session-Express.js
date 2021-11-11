@@ -1,5 +1,5 @@
 # session-Express.js
-**A which demonstrate Session handling in Express.js**
+**A program which demonstrate Session handling in Express.js**
 
 HTTP is stateless; to associate a request to any other request, you need 
 a way to store user data between HTTP requests. Cookies and URL parameters 
